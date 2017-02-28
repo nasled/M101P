@@ -1,6 +1,9 @@
 # M101P: MongoDB for Developers
 
+## Warning! Contains spoilers.
+
 Tested on
+- Mongo 4.3.2
 - Python 3.6.0
 - Docker 1.12.6
 
